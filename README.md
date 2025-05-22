@@ -14,6 +14,15 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
 </div>
+## 🎓 Onde estou Estudando?
+
+Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
+- **Lógica de Programação e Algoritmos**.
+- **Sistemas Operácionais**.
+- **Levantamento de Requisitos**.
+- **Lógica de Programação**.
+- **Arquitetura de Redes com IOT com Programação em JavaScript**
+
 
 
 Estamos aprendendo Sistemas Operácionais, levantamento de requisitos, lógica de programação e arquitetura de redes com IOT com programação em javaScript.
