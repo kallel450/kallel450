@@ -3,7 +3,7 @@
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
-## Estamos aprendendo Sistemas Operácionais, levantamento de requisitos, lógica de programação e arquitetura de redes com IOT com programação em javaScript.
+Estamos aprendendo Sistemas Operácionais, levantamento de requisitos, lógica de programação e arquitetura de redes com IOT com programação em javaScript.
 
 ## 🎯 Expectativas para o Futuro
 
