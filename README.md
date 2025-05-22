@@ -25,8 +25,6 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 
 
 
-Estamos aprendendo Sistemas Operácionais, levantamento de requisitos, lógica de programação e arquitetura de redes com IOT com programação em javaScript.
-
 ## 🎯 Expectativas para o Futuro
 
 Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais. Meu objetivo é me tornar uma pessoa bem sucedida.
